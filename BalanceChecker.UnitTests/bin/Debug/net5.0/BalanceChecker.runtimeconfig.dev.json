@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\florentino.delima\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\florentino.delima\\.nuget\\packages"
+    ]
+  }
+}
